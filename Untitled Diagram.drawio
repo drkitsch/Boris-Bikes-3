@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T14:25:07.908Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="SblGd8hzJtmCk77NipBS" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T14:32:30.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Ol6VO8Npu1LETEsL-8yO" version="14.9.6" type="github">
   <diagram id="7X6yiqUGxD3CL5neLxk5" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wgNBIFDu5YPpf_-57eZc-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;release_bike&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="400" width="120" height="70" as="geometry" />
+          <mxGeometry x="310" y="570" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wgNBIFDu5YPpf_-57eZc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.957;entryY=0.755;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wgNBIFDu5YPpf_-57eZc-1" target="wgNBIFDu5YPpf_-57eZc-1">
           <mxGeometry relative="1" as="geometry" />
@@ -14,28 +14,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wgNBIFDu5YPpf_-57eZc-3" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Person&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="60" width="120" height="70" as="geometry" />
+          <mxGeometry x="310" y="60" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wgNBIFDu5YPpf_-57eZc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wgNBIFDu5YPpf_-57eZc-4" target="wgNBIFDu5YPpf_-57eZc-1">
+        <mxCell id="wgNBIFDu5YPpf_-57eZc-9" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wgNBIFDu5YPpf_-57eZc-4" target="wgNBIFDu5YPpf_-57eZc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgNBIFDu5YPpf_-57eZc-20" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wgNBIFDu5YPpf_-57eZc-4" target="wgNBIFDu5YPpf_-57eZc-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wgNBIFDu5YPpf_-57eZc-4" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Bike&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="290" width="120" height="70" as="geometry" />
+          <mxGeometry x="310" y="410" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wgNBIFDu5YPpf_-57eZc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wgNBIFDu5YPpf_-57eZc-5" target="wgNBIFDu5YPpf_-57eZc-4">
+        <mxCell id="wgNBIFDu5YPpf_-57eZc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wgNBIFDu5YPpf_-57eZc-5" target="wgNBIFDu5YPpf_-57eZc-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wgNBIFDu5YPpf_-57eZc-5" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Docking Station&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="170" width="120" height="70" as="geometry" />
+          <mxGeometry x="310" y="170" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wgNBIFDu5YPpf_-57eZc-11" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wgNBIFDu5YPpf_-57eZc-1" target="wgNBIFDu5YPpf_-57eZc-5">
+        <mxCell id="wgNBIFDu5YPpf_-57eZc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wgNBIFDu5YPpf_-57eZc-14" target="wgNBIFDu5YPpf_-57eZc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgNBIFDu5YPpf_-57eZc-14" value="&lt;span style=&quot;font-size: 15px&quot;&gt;is_working?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wgNBIFDu5YPpf_-57eZc-19" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Docking Station&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="410" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wgNBIFDu5YPpf_-57eZc-21" value="RELEASE THE BIKE" style="curved=1;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wgNBIFDu5YPpf_-57eZc-1" target="wgNBIFDu5YPpf_-57eZc-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="430" as="sourcePoint" />
-            <mxPoint x="750" y="380" as="targetPoint" />
+            <mxPoint x="870" y="430" as="sourcePoint" />
+            <mxPoint x="920" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="390" />
-              <mxPoint x="400" y="320" />
-              <mxPoint x="360" y="260" />
+              <mxPoint x="180" y="400" />
+              <mxPoint x="190" y="335" />
             </Array>
           </mxGeometry>
         </mxCell>

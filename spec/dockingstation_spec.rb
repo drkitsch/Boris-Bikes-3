@@ -1,3 +1,5 @@
-describe DockingStation do
+require './lib/borisbikes.rb'
 
-end
+describe DockingStation do
+    it { is_expected.to respond_to :release_bike }
+end 

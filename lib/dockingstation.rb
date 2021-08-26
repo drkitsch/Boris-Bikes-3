@@ -5,8 +5,11 @@ class DockingStation
   attr_reader :bike 
   
   def release_bike 
-  Bike.new
-  end
+    fail "The Docking Station is empty" unless @bike
+@bike
+  end 
+
+
 
   def dock(object)
     @bike = object

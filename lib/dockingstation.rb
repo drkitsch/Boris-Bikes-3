@@ -5,6 +5,8 @@ class DockingStation
   Bike.new
   end
 
-  def dock()
+  def dock(object)
+    @bike = object
   end 
 end
+

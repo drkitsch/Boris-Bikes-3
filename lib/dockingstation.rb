@@ -6,12 +6,11 @@ class DockingStation
   
   def release_bike 
     fail "The Docking Station is empty" unless @bike
-@bike
+  @bike
   end 
 
-
-
   def dock(object)
+    fail "The Docking Station is full" if @bike
     @bike = object
 
   end 
